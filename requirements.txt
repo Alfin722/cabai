@@ -1,12 +1,6 @@
-google-generativeai
-matplotlib
-numpy
+streamlit
 pandas
-plotly
-scikit-fuzzy
+numpy
 scikit-learn
-scipy
-streamlit>=1.25.0
-streamlit-autorefresh
-tensorflow
-yfinance
+openpyxl
+tensorflow-cpu
